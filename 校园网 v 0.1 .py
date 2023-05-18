@@ -4,8 +4,8 @@ url = 'http://172.17.6.1/cgi-bin/srun_portal?callback=jQuery11240302287206575967
 data = {
     "callback": "jQuery112408691710374214532_1682587804903",
     "action": "login",
-    "username": " 221405100076",
-    "password": "{MD5}9c43ba87f1fd97d54b78011c02499462",
+    "username": " ",
+    "password": "",
     "ac_id": "1",
     "ip": "10.203.50.26",
     "chksum": " b3140423492a2ec0f942d86dad8a9aca7680cd6d",
